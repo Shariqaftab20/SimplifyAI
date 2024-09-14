@@ -1,0 +1,11 @@
+# Ignore Python cache and other unnecessary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+llm/
+faiss_index/
+*.sqlite3
+.DS_Store
