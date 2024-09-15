@@ -1,3 +1,5 @@
+# NOTE:- The code to langchain and RAG implementation is in [MyAPI/api/views.py](https://github.com/Shariqaftab20/SimplifyAI/blob/main/MyAPI/api/views.py)
+
 # AI-Powered Customer Support System
 
 Welcome to the AI-Powered Customer Support System repository! This project demonstrates the integration of advanced NLP techniques with a Django backend to create a sophisticated customer support system. Leveraging LangChain, a vector database for RAG (Retrieval-Augmented Generation), and various AI models, this system provides intelligent and context-aware responses to customer queries.
